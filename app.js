@@ -16,6 +16,7 @@ app.get("/user", (req, res) => {
     name: "Luis Enrique",
     lastname: "Millan Brito",
     age: 41,
+    country: "venezuela",
   });
 });
 
